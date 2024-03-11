@@ -1,4 +1,4 @@
-#Count the number of even numbers among those integers entered by the user.
+//Count the number of even numbers among those integers entered by the user.
 
 #include <stdio.h>
 #include <stdlib.h>
